@@ -7,7 +7,7 @@ permalink:  why_did_i_get_into_web_development
 
 
 My name is Adi Skop, I am 26 years old. Born and raised in Israel in the Tel Aviv area. 
-When I was in my early 20s I moved to the US to pursue my pre-med Biology degree. During this time my full intention was to become a physician one day. I worked really hard and finally entered my last semester, in which I was obligated to take a coding class called Intro to C programming, as a part of the requirements. I also took an elective Bioinformatics class, in which we focused on coding in Fortran.
+I moved to the US when I was 20, to pursue my pre-med Biology degree. During this time my full intention was to become a physician one day. I worked really hard and finally entered my last semester, in which I was obligated to take a coding class called Intro to C programming, as a part of the requirements. I also took an elective Bioinformatics class, in which we focused on coding in Fortran.
 
 Not in a million years I had imagined I would enjoy these two classes as much as I did. 
 I remember thinking about changing majors, but obviously, timing was not in my favor. 
