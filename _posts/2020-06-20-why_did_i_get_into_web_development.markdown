@@ -11,7 +11,7 @@ I moved to the US when I was 20, to pursue my pre-med Biology degree. During thi
 
 Not in a million years I had imagined I would enjoy these two classes as much as I did. 
 I remember thinking about changing majors, but obviously, timing was not in my favor. 
-And so, I set this passion aside, and graduated with a bachlor's in Biological Sciences and immediatly started applying to Med Schools. 
+And so, I set this passion aside, graduated with a bachlor's in Biological Sciences and immediatly started applying to Med Schools. 
 I got accepted into an abroad program in Hungary and so, before I knew it I started a life there. 
 After about a year, I realized I wasn't passionate enough for this career and that it wasn't for me for various reasons. 
 
