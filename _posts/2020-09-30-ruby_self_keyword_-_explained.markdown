@@ -23,4 +23,4 @@ When compared to simply use the specific class/method names, which will then hav
 Self would not be affected. 
 
 It also makes the code shorter and easier to understand. 
-And so it is safe to say that the Self keyword is often used in programming and it is important to understand and distinguish between its different uses. 
+And so it is safe to say that the Self keyword is widely used in programming, and thus it's important to understand and distinguish between its different uses. 
