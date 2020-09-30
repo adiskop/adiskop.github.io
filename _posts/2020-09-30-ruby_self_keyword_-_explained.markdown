@@ -18,7 +18,9 @@ When using **Self** inside of a class - self is going to refer to the *class its
 When we call the initialize method, the interpreter is already executing it, and instantiating a new instance, and so **Self** is going to refer to this instance, which is the object itself in this case. 
 
 
-Using self is also very useful when we would like to change a class or method name - self would not be affected of this change, when compared to if we simply use the specific class/method name. 
+Using self is also very useful when we want to change a class or method name:
+When compared to simply use the specific class/method names, which will then have to also be changed.
+Self would not be affected. 
 
 It also makes the code shorter and easier to understand. 
 And so it is safe to say that the Self keyword is often used in programming and it is important to understand and distinguish between its different uses. 
