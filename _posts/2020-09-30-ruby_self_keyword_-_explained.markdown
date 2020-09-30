@@ -9,7 +9,7 @@ permalink:  ruby_self_keyword_-_explained
 The "self" keyword, which can be confusing at times is simply created to give access to the current object. 
 Which is going to depend on where we use it. 
 
-#### Three important instances we use and confuse Self:
+## Three important instances we use Self:
 
 Lets say we are inside an instance method (of a class), **Self** is going to refer to the *instance of that class*. 
 
