@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Ruby Self Keyword - Explained "
-date:       2020-09-30 15:26:40 +0000
+date:       2020-09-30 11:26:41 -0400
 permalink:  ruby_self_keyword_-_explained
 ---
 
 
 The "self" keyword, which can be confusing at times is simply created to give access to the current object. 
-Which is going to depend of where we use it. 
+Which is going to depend on where we use it. 
 
 #### Three important instances we use and confuse Self:
 
