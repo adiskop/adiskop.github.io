@@ -19,7 +19,7 @@ When we call the initialize method, the interpreter is already executing it, and
 
 
 Using self is also very useful when we want to change a class or method name:
-When compared to simply use the specific class/method names, which will then have to also be changed.
+When compared to simply using the specific class/method names, which will then have to also be changed.
 Self would not be affected. 
 
 It also makes the code shorter and easier to understand. 
