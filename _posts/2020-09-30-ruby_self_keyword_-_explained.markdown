@@ -15,7 +15,7 @@ Lets say we are inside an instance method (of a class), **Self** is going to ref
 
 When using **Self** inside of a class - self is going to refer to the *class itself*. 
 
-When we call the initialize method, the interpreter is already executing it, and instantiate an instance, and so **Self** is going to refer to this instance, which is the object itself in this case. 
+When we call the initialize method, the interpreter is already executing it, and instantiating a new instance, and so **Self** is going to refer to this instance, which is the object itself in this case. 
 
 
 Using self is also very useful when we would like to change a class or method name - self would not be affected of this change, when compared to if we simply use the specific class/method name. 
